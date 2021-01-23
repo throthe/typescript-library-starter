@@ -13,7 +13,7 @@ jobs:
 
     - name: Finish
       env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         npm i
         npm run build
