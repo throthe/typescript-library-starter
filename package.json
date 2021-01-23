@@ -1,5 +1,5 @@
 {
-  "name": "typescript-library-starter",
+  "name": "@throthe/typescript-library-starter",
   "version": "0.0.1",
   "description": "Starter template for building libraries in TypeScript",
   "main": "./dist/index.js",
